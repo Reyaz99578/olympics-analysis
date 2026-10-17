@@ -2,7 +2,7 @@
 
 An interactive web app that explores **120 years of Summer Olympics history (1896-2016)**: who won, which countries dominate which sports, and how the Games have changed over time.
 
-**🔗 Live demo:** [YOUR_STREAMLIT_LINK](YOUR_STREAMLIT_LINK)
+**🔗 Live demo:** (https://olympics-analysis-fhvcvp5sszjnnhvfwxza4t.streamlit.app/)
 
 ![Olympics Data Analysis banner](file:///C:/Users/windows%2010/Downloads/banner.svg)
 
